@@ -1,0 +1,14 @@
+{
+    "from_email": {
+        "smtp": "smtp.gmail.com",
+        "port": 465,
+        "email": "gautham.kolluru@gmail.com"
+    },
+    "to_email": {
+        "to": [
+            "gautham.kolluru@gmail.com"
+        ],
+        "cc": [],
+        "bcc": []
+    }
+}
